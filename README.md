@@ -15,7 +15,3 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [https://blogcard.adamrichardturner.dev/](https://blogcard.adamrichardturner.dev/)
-
-## My process
-
-I used Tailwind CSS with this project to produce the card at pace.
